@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'bloco_de_notas_online',
+    'django_bootstrap5',
 ]
 
 MIDDLEWARE = [

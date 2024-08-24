@@ -10,3 +10,16 @@
     width: 100%; */
     background-color: #8e79fa;
 }
+
+.centralizarDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#cardIndexTeste {
+    width: 70%;
+    margin-top: 30px;
+    min-height: 200px;
+}
